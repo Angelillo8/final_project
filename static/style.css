@@ -1,0 +1,26 @@
+body{
+    background:#0F165C;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.white{
+    color: white;
+}
+
+.robot{
+    height: 400px;
+}
+
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.row{
+    padding-top: 20px;
+}
